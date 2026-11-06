@@ -15,3 +15,5 @@ elif vendas >= 500:
 else:
    print(f'Sinto muito mas voce nao bateu a meta esse mes, seu pagamento sera de apenas: {salario:.2f}')
 
+   
+
